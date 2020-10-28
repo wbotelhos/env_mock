@@ -19,7 +19,7 @@ gem 'env_mock'
 ## Usage
 
 ```ruby
-ENV['DATABASE_USERNAME'] = 'wbotelhos'
+ENV['DATABASE_USERNAME'] = 'root'
 
 ENV['DATABASE_USERNAME']
 => 'root'
