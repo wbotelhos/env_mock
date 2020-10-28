@@ -31,7 +31,7 @@ ENV['UDP']
 => nil
 
 EnvMock.mock(DATABASE_USERNAME: 'wbotelhos', TAX_CENTS: 700, 'udp' => true) do
-  ENV['DATABASE_USERNAME'] # .to_sym is called for all keys
+  ENV['DATABASE_USERNAME'] # .to_s is called for all keys
   => 'wbotelhos'
 
   ENV['TAX_CENTS']
