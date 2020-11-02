@@ -20,6 +20,6 @@ jobs:
           CI: true
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
           COVERAGE: true
-          MINIMUM_COVERAGE: 80
+          MINIMUM_COVERAGE: ${{ secrets.MINIMUM_COVERAGE }}
 
         run: bundle exec rspec

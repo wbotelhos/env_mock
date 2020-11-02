@@ -15,6 +15,7 @@ Gem::Specification.new do |spec|
   spec.test_files       = Dir['spec/**/*']
   spec.version          = EnvMock::VERSION
 
+  spec.add_development_dependency 'codecov'
   spec.add_development_dependency 'pry-byebug'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
