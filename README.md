@@ -4,7 +4,7 @@
 [![Gem Version](https://badge.fury.io/rb/env_mock.svg)](https://badge.fury.io/rb/env_mock)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f312587b4f126bb13e85/maintainability)](https://codeclimate.com/github/wbotelhos/env_mock/maintainability)
 [![codecov](https://codecov.io/gh/wbotelhos/blogy/branch/master/graph/badge.svg?token=VX93Oihxpz)](https://codecov.io/gh/wbotelhos/env_mock)
-[![Patreon](https://img.shields.io/badge/donate-%3C3-brightgreen.svg)](https://www.patreon.com/wbotelhos)
+[![Sponsor](https://img.shields.io/badge/sponsor-%3C3-green)](https://www.patreon.com/wbotelhos)
 
 Mock your ENVs.
 
